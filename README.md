@@ -3,6 +3,4 @@
 
 A small dashboard where you can control the video you watch on Instagram.
 
-You can edit the code as you wish and create your own add-on.
-
 The add-on was tested only in the Firefox browser.
